@@ -1,2 +1,2 @@
-# Anne-Will
-Aufgabe Anne Will: Wir untersuchen die Gästeliste von Anne Will zum Thema Ukraine-Krieg im Jahr 2022.
+*Anne-Will*
+Aufgabe Anne Will: Ausgewertet wurde die Gästeliste der Talkshow Anne Will der Folgen 500 bis 505.
