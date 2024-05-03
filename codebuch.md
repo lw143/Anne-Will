@@ -3,7 +3,7 @@ Erhoben wurde die Gästeliste der Talkshow Anne Will der Folgen 500 bis 505 zum 
 Quelle: https://www.fernsehserien.de/anne-will/folgen/500-keine-entspannung-im-konflikt-mit-putin-wie-ist-ein-neuer-krieg-zu-verhindern-1532088
 
 				
-Aufgabe Anne Will Gästeliste Folgen 500 bis 505 				
+				
 				
 Edgelist				
 				
